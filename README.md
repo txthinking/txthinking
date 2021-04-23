@@ -1,6 +1,4 @@
-## TxThinking
-
-Make products with ❤️
+## Make products with ❤️
 
 | Name | Description | Related |
 | --- | --- | --- |
