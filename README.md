@@ -1,4 +1,4 @@
-## Make products with ❤️
+## ![GitHub User's stars](https://img.shields.io/github/stars/txthinking?style=social) Make products with ❤️
 
 | Name | Description | Related |
 | --- | --- | --- |
