@@ -21,7 +21,7 @@
 | [SOCKS5](https://github.com/txthinking/socks5) ![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/socks5?style=social) | SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support | MIT |
 | [encrypt](https://github.com/txthinking/encrypt) ![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/encrypt?style=social) | A golang library for Encryption, Hash, Encoding | MIT |
 | [mailx](https://github.com/txthinking/mailx) ![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/mailx?style=social) | A golang lightweight SMTP mail library | MIT |
-| [RunnerGroup](https://github.com/txthinking/runnergroup) ![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/runnergroup?style=social) | RunnerGroup is a golang library like sync.WaitGroup, the diffrence is if one task stops, all will be stopped | MIT |
-| [Google Hosts Generator](https://github.com/txthinking/google-hosts) ![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/google-hosts?style=social) | Google hosts generator | MIT |
+| [runnergroup](https://github.com/txthinking/runnergroup) ![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/runnergroup?style=social) | RunnerGroup is a golang library like sync.WaitGroup, the diffrence is if one task stops, all will be stopped | MIT |
+| [google-hosts](https://github.com/txthinking/google-hosts) ![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/google-hosts?style=social) | Google hosts generator | MIT |
 | [Remote Meeting](https://remotemeeting.io/) | Remote Meeting with Video, Voice, Text Chat and Screen Sharing | / |
 | [Share Screen](https://sharescreen.io/) | Share your screen, desktop, window in real time | / |
