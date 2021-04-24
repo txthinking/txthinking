@@ -1,8 +1,8 @@
-## ![GitHub User's stars](https://img.shields.io/github/stars/txthinking?style=social) Make products with ❤️
+## Make products with ❤️
 
 | Name | Description | Related |
 | --- | --- | --- |
-| [Brook](https://github.com/txthinking/brook) | Brook is an open source cross-platform strong encryption and not detectable proxy. Zero-Configuration | [Document](https://txthinking.github.io/brook/), [Install Script](https://brook-community.github.io/script/), GPLv3 |
+| [Brook](https://github.com/txthinking/brook) ![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/brook?style=social) | Brook is an open source cross-platform strong encryption and not detectable proxy. Zero-Configuration | [Document](https://txthinking.github.io/brook/), [Install Script](https://brook-community.github.io/script/), GPLv3 |
 | [Shiliew](https://www.shiliew.com/) | A cross-platform encrypted, undetectable, simple Proxy/VPN | / |
 | [ZoneNet](https://zonenet.io/) | Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere | [Github](https://github.com/zonenetio) |
 | mitmproxy helper | A mobile helper works with desktop mitmproxy, SSL/TLS certificates for interception are generated on the fly | [AppStore](https://apps.apple.com/us/app/id1528537342), [Google Play](https://play.google.com/store/apps/details?id=com.txthinking.mitmproxy), [Video](https://www.youtube.com/watch?v=puES_ayJkEo) |
