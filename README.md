@@ -2,7 +2,7 @@
 
 | Name | Description | Related |
 | --- | --- | --- |
-| [brook](https://github.com/txthinking/brook) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/brook?style=social)](https://github.com/txthinking/brook) | Brook is an open source cross-platform strong encryption and not detectable proxy. Zero-Configuration | [Document](https://txthinking.github.io/brook/), [Install Script](https://brook-community.github.io/script/), GPLv3 |
+| [brook](https://github.com/txthinking/brook) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/brook?style=social)](https://github.com/txthinking/brook) | Brook is an open source cross-platform strong encryption and not detectable proxy. Zero-Configuration | [Document](https://txthinking.github.io/brook/), GPLv3 |
 | [Shiliew](https://www.shiliew.com/) | A cross-platform encrypted, undetectable, simple Proxy/VPN | [Website](https://www.shiliew.com/) |
 | [ZoneNet](https://zonenet.io/) | Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, anywhere | [Website](https://zonenet.io/), [Github](https://github.com/zonenetio) |
 | mitmproxy helper | A mobile helper works with desktop mitmproxy, SSL/TLS certificates for interception are generated on the fly | [AppStore](https://apps.apple.com/us/app/id1528537342), [Google Play](https://play.google.com/store/apps/details?id=com.txthinking.mitmproxy), [Video](https://www.youtube.com/watch?v=puES_ayJkEo) |
@@ -25,4 +25,3 @@
 | [google-hosts](https://github.com/txthinking/google-hosts) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/google-hosts?style=social)](https://github.com/txthinking/google-hosts) | Google hosts generator | MIT |
 | [Remote Meeting](https://remotemeeting.io/) | Remote Meeting with Video, Voice, Text Chat and Screen Sharing | [Website](https://remotemeeting.io/) |
 | [Share Screen](https://sharescreen.io/) | Share your screen, desktop, window in real time | [Website](https://sharescreen.io/) |
-| [ipip.ooo](https://ipip.ooo) | Intelligently check your IP and DNS | [Website](https://ipip.ooo) |
