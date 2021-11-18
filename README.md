@@ -1,4 +1,4 @@
-## Make products with ❤️ [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5j8-I5Y4lWo4KTa4_0Kx5A?style=social)](https://www.youtube.com/channel/UC5j8-I5Y4lWo4KTa4_0Kx5A)
+I am working full time on [open source](https://github.com/txthinking) and [side projects](https://txthinking.com). [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5j8-I5Y4lWo4KTa4_0Kx5A?style=social)](https://www.youtube.com/txthinking)
 
 | Name | Description | Related |
 | --- | --- | --- |
