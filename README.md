@@ -1,6 +1,6 @@
 I am working full time on [open source](https://github.com/txthinking) and [side projects](https://txthinking.com).
 
-[Youtube](https://www.youtube.com/txthinking) 
+[🩸 Youtube](https://www.youtube.com/txthinking) 
 [🗣 Follow](https://t.me/txthinking_talks)
 [❤️ Sponsor](https://github.com/sponsors/txthinking)
 
