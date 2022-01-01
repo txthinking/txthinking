@@ -1,5 +1,7 @@
-I am working full time on [open source](https://github.com/txthinking) and [side projects](https://txthinking.com). [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5j8-I5Y4lWo4KTa4_0Kx5A?style=social)](https://www.youtube.com/txthinking) 
+I am working full time on [open source](https://github.com/txthinking) and [side projects](https://txthinking.com).
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5j8-I5Y4lWo4KTa4_0Kx5A?style=social)](https://www.youtube.com/txthinking) 
+[🗣 Follow](https://t.me/txthinking_talks)
 [❤️ Sponsor](https://github.com/sponsors/txthinking)
 
 | Name | Description | Related |
