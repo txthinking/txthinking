@@ -1,7 +1,7 @@
 I am working full time on [open source](https://github.com/txthinking) and [side projects](https://txthinking.com).
 
-[🩸 Youtube](https://www.youtube.com/txthinking) 
 [🗣 Talks](https://t.me/txthinking_talks)
+[🩸 Youtube](https://www.youtube.com/txthinking) 
 [❤️ Sponsor](https://github.com/sponsors/txthinking)
 
 | Name | Description | Related |
@@ -17,7 +17,7 @@ I am working full time on [open source](https://github.com/txthinking) and [side
 | [ipip.ooo](https://ipip.ooo) | Intelligently check your IP and DNS | [Website](https://ipip.ooo) |
 | [IPvBar](https://chrome.google.com/webstore/detail/ipvbar/copjmgogifdfjkaenpallapiidcpkjbm) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/ipvbar?style=social)](https://github.com/txthinking/ipvbar) | A Chrome extesion display the server IP, country from business IP library, IP version, http(s) and ws(s) on each tab | [Chrome Web Store](https://chrome.google.com/webstore/detail/ipvbar/copjmgogifdfjkaenpallapiidcpkjbm), Apache License 2.0 |
 | [nami](https://github.com/txthinking/nami) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/nami?style=social)](https://github.com/txthinking/nami) | A decentralized binary package manager | GPLv3 |
-| [mr2](https://github.com/txthinking/mr2) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/mr2?style=social)](https://github.com/txthinking/mr2) | Mr2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP. Zero-Configuration | GPLv3 |
+| [zoro](https://github.com/txthinking/zoro) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/mr2?style=social)](https://github.com/txthinking/zoro) | zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP. Zero-Configuration | GPLv3 |
 | [joker](https://github.com/txthinking/joker) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/joker?style=social)](https://github.com/txthinking/joker) | Joker can turn process into daemon. Zero-Configuration | GPLv3 |
 | [jinbe](https://github.com/txthinking/jinbe) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/jinbe?style=social)](https://github.com/txthinking/jinbe) | Jinbe can add auto start command at boot. Zero-Configuration | GPLv3 |
 | [ipio](https://github.com/txthinking/ipio) [![GitHub Repo stars](https://img.shields.io/github/stars/txthinking/ipio?style=social)](https://github.com/txthinking/ipio) | ipio can convert Network/IPv4/IPv6 layer packets to Transport/TCP/UDP layer packets, such as tun to socks5, tun to brook server, tun to brook wsserver, tun to brook wssserver | GPLv3 |
