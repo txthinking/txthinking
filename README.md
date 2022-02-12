@@ -1,7 +1,7 @@
 I am working full time on [open source](https://github.com/txthinking) and [side projects](https://txthinking.com).
 
-[🗣 Talks](https://t.me/txthinking_talks)
-[💬 Join](https://join.txthinking.com)
+[🗣 News](https://t.me/txthinking_news)
+[💬 Chat](https://join.txthinking.com)
 [🩸 Youtube](https://www.youtube.com/txthinking) 
 [❤️ Sponsor](https://github.com/sponsors/txthinking)
 
